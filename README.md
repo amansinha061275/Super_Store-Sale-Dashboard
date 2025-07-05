@@ -5,7 +5,7 @@
 
 ### 🔹 **Key Insights from Dashboard 1 (Sales Overview):**
 
-   => Dashboard view - <a href="https://github.com/amansinha061275/Super_Store-Sale-Dashboard/blob/main/Screenshot%202025-07-05%20104419.png">view Dashboard</a>
+   => Dashboard view - <a href="https://github.com/amansinha061275/Super_Store-Sale-Dashboard/blob/main/Screenshot%202025-07-05%20104419.png">View Dashboard</a>
 
 
    => Forecast view - <a href="https://github.com/amansinha061275/Super_Store-Sale-Dashboard/blob/main/Screenshot%202025-07-05%20104419.png">Forecast Dashboard</a>
